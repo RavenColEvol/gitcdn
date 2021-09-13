@@ -1,7 +1,4 @@
-declare const _default: any;
+declare const _default: Promise<{
+    SocialEmbedPlugin: import("@contentstack/app-sdk/dist/src/RTE").RTEPlugin;
+}>;
 export default _default;
-/**
- * https://www.youtube.com/watch?v=NVphWvObKL8
- * https://twitter.com/desmondprograms/status/1427919826081751045
- *
-*/ 

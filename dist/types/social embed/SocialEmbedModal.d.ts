@@ -1,3 +1,3 @@
 /// <reference types="react" />
-declare const ModalBody: (props: any) => JSX.Element;
-export default ModalBody;
+declare const SocialEmbedModal: (props: any) => JSX.Element;
+export default SocialEmbedModal;
