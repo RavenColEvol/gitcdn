@@ -1,4 +1,3 @@
-/// <reference types="react" />
 export declare function ExpandCloseIcon(props: any): JSX.Element;
 export declare function CheckedIcon(props: any): JSX.Element;
 export declare function ExpandOpenIcon(props: any): JSX.Element;
